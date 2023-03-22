@@ -1,5 +1,7 @@
 // import icons from '../img/icons.svg'; // Parcel 1
 import icons from 'url:../img/icons.svg'; // Parcel 2
+import 'core-js/stable'; // polyfill everything else
+import 'regenerator-runtime/runtime'; // polyfill async/await
 
 // console.log(icons); // http://localhost:1234/icons.dfd7a6db.svg?1679457050731
 
