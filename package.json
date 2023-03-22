@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lazyrf/forkify/issues"
   },
-  "homepage": "https://github.com/lazyrf/forkify#readme"
+  "homepage": "https://github.com/lazyrf/forkify#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
 }
